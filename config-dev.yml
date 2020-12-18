@@ -5,4 +5,4 @@ eureka:
       defaultZone: http://eureka7001.com:7001/eureka/
 userinfo:
   username: admin
-  password: 123
+  password: 1234
